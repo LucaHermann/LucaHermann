@@ -4,6 +4,6 @@
 
 ❤️ I love contribute to open-source projects 
 
-📕 @42School
+📕 @42School from 2016 to 2021
 
-🧑‍💻 Currently @Zenlaw
+🧑‍💻 Currently @Zenlaw fullstack developer
