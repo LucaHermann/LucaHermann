@@ -1,6 +1,6 @@
 ### Hello World from 🇫🇷
 
-:octocat: Junior front-end Developer [React JS/TS, Gatsby, MUI, Jest, Redux...] from Paris.
+:octocat: Junior full-stack Developer [React JS/TS, Redux,Gatsby, MUI, Jest...] from Paris.
 
 ❤️ I love contribute to open-source projects 
 
