@@ -1,10 +1,10 @@
 ### Hello World from 🇫🇷
 
-:octocat: Full-stack Developer [React JS/TS, Redux,Gatsby, MUI, Jest...] from Paris.
+:octocat: Full-stack Developer [React JS/TS, Redux,Gatsby, MUI, Jest...] from Paris
 
-❤️ I love contribute to open-source projects.
+❤️ I love contribute to open-source projects
 
-📕 @42School from 2016 to 2021 cursus finish lvl 17.40.
+📕 @42School from 2016 to 2021 cursus finish lvl 17.40
 
 🧑‍💻 Currently @Zenlaw Full-stack developer since january 2021
 
