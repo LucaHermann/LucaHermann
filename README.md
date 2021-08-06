@@ -1,6 +1,6 @@
 ### Hello World from 🇫🇷
 
-:octocat: Full-stack Developer [React JS/TS, Redux, GatsbyJS, M-UI, Jest, Testing-library, Babel, Webpack, Eslint] from Paris
+:octocat: Full-stack Developer [React JS/TS, Redux, GatsbyJS, Express, Axios , Socket.IO, Material-UI, Semantic-UI, Jest, Testing-library, Babel, Webpack, Eslint] from Paris
 
 ❤️ I love contribute to open-source projects
 
