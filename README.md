@@ -4,7 +4,7 @@
 
 ❤️ I love contribute to open-source projects
 
-📕 @42School from 2016 to 2021 cursus finish lvl 17.40
+📕 @42School from 2016 to 2021 cursus finished lvl 17.40
 
 🧑‍💻 Currently @Zenlaw Full-stack developer since january 2021
 
