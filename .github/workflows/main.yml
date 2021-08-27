@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+     - name: Metrics embed
+       uses: lowlighter/metrics@v3.13
+       with:
+        # Your GitHub token
+        token: ${{ secrets.METRICS_TOKEN }}
