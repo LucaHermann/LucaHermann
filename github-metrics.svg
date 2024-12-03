@@ -225,7 +225,7 @@
                     <rect mask="url(#languages-bar)" x="326.33680400614804" y="0" width="40.19241162179583" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="366.52921562794387" y="0" width="37.00994099856215" height="8" fill="#438eff"/>
                     <rect mask="url(#languages-bar)" x="403.53915662650604" y="0" width="29.634067132728443" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.1732237592345" y="0" width="13.441327036541226" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.1732237592345" y="0" width="13.441327036541226" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="446.6145507957757" y="0" width="13.385449204224305" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -267,7 +267,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -864,7 +864,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 198m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -991,7 +991,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 13:04:35 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 14:09:35 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
